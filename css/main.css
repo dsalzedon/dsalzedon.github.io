@@ -151,7 +151,4 @@ nav {
     .lista{
         grid-template-columns: 1fr;
     }
-    li{
-        padding: 15px;
-    }
 }
